@@ -1,20 +1,6 @@
 # 🧁 Página de Receita - Cupcake de Café
 
-Uma página web elegante e responsiva com a receita de **Cupcake de Café com Chantilly**, desenvolvida com HTML e CSS puro.
-
-![Cupcake Preview](images/main-image.jpg)
-
-## 📋 Sobre o Projeto
-
-Este projeto apresenta uma página de receita com design clean e agradável, inspirada em sites de culinária modernos. A página contém todos os detalhes necessários para preparar deliciosos cupcakes de café, incluindo ingredientes, modo de preparo e informações sobre tempo e dificuldade.
-
-## ✨ Características
-
-- 🎨 Design responsivo e elegante
-- 📱 Compatível com dispositivos móveis
-- 🖼️ Imagens de alta qualidade
-- 🎯 Layout organizado e intuitivo
-- ☕ Temática de café aconchegante
+Uma página web elegante com a receita de **Cupcake de Café com Chantilly**.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -60,10 +46,6 @@ receita-cupcake/
 - `#f0e8c2` - Bege claro (fundo)
 - `#573a37` - Marrom (texto)
 - `#291b1a` - Marrom escuro (títulos)
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
 
 ## 👨‍💻 Autor
 
