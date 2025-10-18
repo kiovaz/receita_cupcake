@@ -12,18 +12,22 @@
 body {
     background-image: url(images/bg-image.jpg);
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 #page {
     box-sizing: border-box;
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
     padding: 24px;
     background-color: #f0e8c2;
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
 }
 
-img {
+#page img {
+    width: 100%;
     border-radius: 16px;
 }
 
@@ -58,3 +62,17 @@ h1,h2{
 ul{
     padding-left: 24px;
 }
+
+footer{
+    color: #f0e8c2;
+    text-align: center;
+    padding-bottom: 48px;
+    
+}
+
+footer img {
+    width: 16px;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
