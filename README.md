@@ -1,4 +1,4 @@
-# 🧁 Página de Receita - Cupcake de Café
+# Receita - Cupcake de Café
 
 Uma página web elegante com a receita de **Cupcake de Café com Chantilly**.
 
